@@ -1,0 +1,23 @@
+name: pymaeparser
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python >=3.10
+  - pip
+
+  - maeparser
+  - cmake
+  - make
+  - libboost-devel
+  - zlib
+
+  # Dev / Testing
+  - scikit-build-core >=0.10
+  - nanobind >=1.3.2
+
+  - pre-commit
+  - ruff
+
+  - pytest
