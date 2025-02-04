@@ -1,0 +1,104 @@
+{ s_m_m2io_version ::: 2.0.0 }
+# created with PyMOL 2.5.0 #
+
+f_m_ct {
+s_m_title
+:::
+benzoate
+m_atom[14]           {
+# First column is atom index #
+i_m_mmod_type
+r_m_x_coord
+r_m_y_coord
+r_m_z_coord
+i_m_residue_number
+s_m_insertion_code
+s_m_chain_name
+s_m_pdb_residue_name
+s_m_pdb_atom_name
+i_m_atomic_number
+i_m_formal_charge
+s_m_color_rgb
+i_m_secondary_structure
+r_m_pdb_occupancy
+i_pdb_PDB_serial
+r_m_pdb_tfactor
+r_m_charge1
+i_m_visibility
+i_m_representation
+i_m_ribbon_style
+i_m_ribbon_color
+s_m_ribbon_color_rgb
+s_m_label_format
+i_m_label_color
+s_m_label_user_text
+:::
+1 2 1.500 0.000 0.000 0 <> " " "UNK " " C  " 6 0 33FF33 0 0.00 1
+0.00 0.00 1 0 0 3 <> "" 2 ""
+2 2 0.750 -1.299 0.000 0 <> " " "UNK " " C  " 6 0 33FF33 0 0.00 2
+0.00 0.00 1 0 0 3 <> "" 2 ""
+3 2 -0.750 -1.299 0.000 0 <> " " "UNK " " C  " 6 0 33FF33 0 0.00 3
+0.00 0.00 1 0 0 3 <> "" 2 ""
+4 2 -1.500 0.000 0.000 0 <> " " "UNK " " C  " 6 0 33FF33 0 0.00 4
+0.00 0.00 1 0 0 3 <> "" 2 ""
+5 2 -0.750 1.299 0.000 0 <> " " "UNK " " C  " 6 0 33FF33 0 0.00 5
+0.00 0.00 1 0 0 3 <> "" 2 ""
+6 2 0.750 1.299 0.000 0 <> " " "UNK " " C  " 6 0 33FF33 0 0.00 6
+0.00 0.00 1 0 0 3 <> "" 2 ""
+7 2 -3.000 0.000 0.000 0 <> " " "UNK " " C  " 6 0 33FF33 0 0.00 7
+0.00 0.00 1 0 0 3 <> "" 2 ""
+8 15 -3.750 1.299 0.000 0 <> " " "UNK " " O  " 8 0 FF4C4C 0 0.00 8
+0.00 0.00 1 0 0 3 <> "" 2 ""
+9 18 -3.750 -1.299 0.000 0 <> " " "UNK " " O  " 8 -1 FF4C4C 0 0.00 9
+0.00 0.00 1 0 0 3 <> "" 2 ""
+10 48 3.000 0.000 0.000 0 <> " " "UNK " " H  " 1 0 E5E5E5 0 0.00 10
+0.00 0.00 1 0 0 3 <> "" 2 ""
+11 48 1.500 -2.598 0.000 0 <> " " "UNK " " H  " 1 0 E5E5E5 0 0.00 11
+0.00 0.00 1 0 0 3 <> "" 2 ""
+12 48 -1.500 -2.598 0.000 0 <> " " "UNK " " H  " 1 0 E5E5E5 0 0.00 12
+0.00 0.00 1 0 0 3 <> "" 2 ""
+13 48 -1.500 2.598 0.000 0 <> " " "UNK " " H  " 1 0 E5E5E5 0 0.00 13
+0.00 0.00 1 0 0 3 <> "" 2 ""
+14 48 1.500 2.598 0.000 0 <> " " "UNK " " H  " 1 0 E5E5E5 0 0.00 14
+0.00 0.00 1 0 0 3 <> "" 2 ""
+:::
+}
+m_bond[14] {
+# First column is bond index #
+i_m_from
+i_m_to
+i_m_order
+i_m_from_rep
+i_m_to_rep
+:::
+1 1 2 2
+2 2
+2 1 10 1
+2 2
+3 2 3 1
+2 2
+4 2 11 1
+2 2
+5 3 4 2
+2 2
+6 3 12 1
+2 2
+7 4 5 1
+2 2
+8 4 7 1
+2 2
+9 5 6 2
+2 2
+10 5 13 1
+2 2
+11 1 6 1
+2 2
+12 6 14 1
+2 2
+13 7 8 2
+2 2
+14 7 9 1
+2 2
+:::
+}
+}
